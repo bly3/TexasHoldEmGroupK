@@ -1,0 +1,3 @@
+# Minimal; expand if you add numpy/pandas/etc.
+typing_extensions
+websockets>=10.0
